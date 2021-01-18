@@ -1,0 +1,102 @@
+{
+  "worker": [
+    {
+      "id": 1,
+      "first_name": "Tedie",
+      "last_name": "Stanhope",
+      "email": "tstanhope0@shutterfly.com",
+      "gender": "Male",
+      "salary": 83016
+    },
+    {
+      "id": 2,
+      "first_name": "Gerri",
+      "last_name": "Branchflower",
+      "email": "gbranchflower1@globo.com",
+      "gender": "Male",
+      "salary": 37055
+    },
+    {
+      "id": 3,
+      "first_name": "Evyn",
+      "last_name": "Middell",
+      "email": "emiddell2@ehow.com",
+      "gender": "Male",
+      "salary": 76108
+    },
+    {
+      "id": 4,
+      "first_name": "Oswell",
+      "last_name": "Sapson",
+      "email": "osapson3@salon.com",
+      "gender": "Male",
+      "salary": 19938
+    },
+    {
+      "id": 5,
+      "first_name": "Dorotea",
+      "last_name": "MacAllan",
+      "email": "dmacallan4@bandcamp.com",
+      "gender": "Female",
+      "salary": 61698
+    },
+    {
+      "id": 6,
+      "first_name": "Annora",
+      "last_name": "Grove",
+      "email": "agrove5@usnews.com",
+      "gender": "Female",
+      "salary": 18913
+    },
+    {
+      "id": 7,
+      "first_name": "Selene",
+      "last_name": "Llewellin",
+      "email": "sllewellin6@eventbrite.com",
+      "gender": "Female",
+      "salary": 24236
+    },
+    {
+      "id": 8,
+      "first_name": "Justus",
+      "last_name": "Benezet",
+      "email": "jbenezet7@time.com",
+      "gender": "Male",
+      "salary": 89358
+    },
+    {
+      "id": 9,
+      "first_name": "Darb",
+      "last_name": "Amiable",
+      "email": "damiable8@elegantthemes.com",
+      "gender": "Male",
+      "salary": 29008
+    },
+    {
+      "id": 10,
+      "first_name": "Maridel",
+      "last_name": "Cordelle",
+      "email": "mcordelle9@theglobeandmail.com",
+      "gender": "Female",
+      "salary": 68602
+    },
+    {
+      "first_name": "Siddharth",
+      "last_name": "Kumar",
+      "email": "siddharthkumaaar@gmail.com",
+      "gender": "Male",
+      "salary": "50000",
+      "status": "",
+      "id": 11
+    },
+    {
+      "first_name": "Pumpy",
+      "last_name": "Rathor",
+      "email": "pumpy@gmail.com",
+      "gender": "Male",
+      "salary": "1023654",
+      "status": "",
+      "id": 12
+    }
+  ]
+}
